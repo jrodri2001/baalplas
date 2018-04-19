@@ -1,0 +1,111 @@
+.glassbg{
+      background-color: rgba(210, 210, 210, 0.44)!important;
+}
+.footnav .nav>li>a{
+    color: #fff!important;
+    border: 1px solid transparent;
+    text-transform: uppercase;
+}
+.footnav .nav>li>a:hover, .footnav .nav>li>a:focus {
+    border: 1px solid #eee;
+    color: #fff;
+    background-color: rgba(210, 210, 210, 0.44)!important;
+}
+.sm_foot{
+    width: 20%;
+    margin:0 auto;
+
+}
+.cd-fixed-bg {
+    min-height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+ 
+.cd-fixed-bg.cd-bg-1 {
+  background-image: url("../../../uploads/bghomes.jpg");
+}
+.sm_foot i{
+    color: #fff;
+    background: rgba(0, 0, 0, 0.45);
+    padding: 10px 10px;
+    border-radius: 36px;
+    border: 1px solid #333;
+    width: 39px;
+}
+.glassbg .nav-tabs.nav-tabs-solid>li{
+    font-size: 18px;
+    font-family: 'Coda';
+}
+.nav-tabs.nav-tabs-solid>.active>a{
+
+    background-color: #FF6700!important;
+    border-color: #FF4700!important;
+}
+.glasbg .nav-tabs.nav-tabs-solid>.active>a, .nav-tabs.nav-tabs-solid>.active>a:hover, .nav-tabs.nav-tabs-solid>.active>a:focus{
+    background-color: #FF6700!important;
+    border-color: #FF4700!important;
+}
+.glassbg .nav-tabs.nav-tabs-solid{
+    background-color: #D35500!important;
+
+}
+.glassbg .nav-tabs.nav-tabs-solid>li>a:hover{
+    background-color: #FF6700!important;
+    border-color: #FF4700!important;
+}
+.glassbg .nav-tabs.nav-tabs-solid>li>a{
+
+    color:#fff!important;
+}
+.glassbg .btn{
+    background-color: #FF6700!important;
+    border-color: #FF4700!important;
+    font-family: 'Coda';
+}
+.titleh{
+        text-align: center;
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+        text-shadow: 1px 1px 3px #3C1C00;
+    font-family: 'Exo', sans-serif;
+        margin-bottom: 0;
+}
+.subtitleh{
+        margin-top: 0;
+        text-align: center;
+    color: #ffffff;
+        text-shadow: 3px 3px 2px #000;
+    font-weight: 600;
+    font-size: 2em;
+    font-family: 'Exo', sans-serif;
+}
+#logoh{
+    width: 35%;
+    margin: 20px auto 0 auto;
+}
+#logoh img {
+    text-align: center;
+    width: 100%;
+}
+.logomain .navbar-brand{
+    height: auto!important;
+}
+.logomain .navbar-brand img{
+     width: 373px;
+    height: auto;
+}
+.class-x{
+    position: absolute;
+    top: 12px;
+    right: -12px;
+}
+.class-x2{
+    position: absolute;
+    top: 9px;
+    right: -12px;
+}
+
